@@ -1,1 +1,4 @@
+data/raw/social_media/r_wallstreetbets_posts.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/News_Headline/abcnews-date-text.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/social_media/df_2020.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
