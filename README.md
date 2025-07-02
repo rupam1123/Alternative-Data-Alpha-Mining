@@ -124,7 +124,7 @@ A **rolling-window backtest** setup:
 
 ## 7. Outputs
 
-All saved in `outputs/plots/`, including:
+All saved in `outputs/`, including:
 
 - Accuracy trend plots
 - Sharpe ratio over time
@@ -149,7 +149,7 @@ All saved in `outputs/plots/`, including:
 
 ---
 
-## 📦 Installation
+## 9. Installation
 
 ```bash
 git clone https://github.com/rupam1123/Alternative-Data-Alpha-Mining.git
@@ -162,4 +162,29 @@ pip install -r requirements.txt
 git lfs install
 git lfs pull
 ```
+## 10. Running the code
+You can run the pipeline step-by-step:
+```bash
+# 🏡 Feature Engineering
+python src/feature_engineering.py
+
+# 🤖 Model Training
+python src/model_training.py
+
+# 🔁 Backtesting
+python src/backtesting.py
+```
+## 11. Dependencies
+Python 3.8+
+pandas, numpy, scikit-learn
+lightgbm, matplotlib, seaborn
+git-lfs
+See full list in requirements.txt
+## 12. Acknowledgements
+Pushshift Reddit Dataset (archived)
+ABC News Headlines Dataset
+Google Trends via Pytrends
+## 13. Author
+**[Rupam Das](https://github.com/rupam1123)** 
+**[Mrityunjay Kumar](https://github.com/mrityunjaykumar23)** 
 
