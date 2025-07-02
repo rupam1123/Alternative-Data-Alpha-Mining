@@ -124,12 +124,13 @@ A **rolling-window backtest** setup:
 
 ## 7. Outputs
 
-All saved in `outputs/`, including:
+All saved in `results/`, including:
 
-- Accuracy trend plots
-- Sharpe ratio over time
-- Rolling heatmaps
-- Cumulative return charts
+- Cumulative Return (Backtest)
+- Cumulative Return Over Time
+- Distribution of Trade PnLs
+- rolling_backtest_result.csv
+- comparisson_ben_LightGBM_&_Random_Forest
 
 ---
 
