@@ -175,16 +175,16 @@ python src/model_training.py
 python src/backtesting.py
 ```
 ## 11. Dependencies
-Python 3.8+
-pandas, numpy, scikit-learn
-lightgbm, matplotlib, seaborn
-git-lfs
-See full list in requirements.txt
+Python 3.8+ <br>
+pandas, numpy, scikit-learn <br>
+lightgbm, matplotlib, seaborn <br>
+git-lfs <br>
+See full list in requirements.txt <br>
 ## 12. Acknowledgements
 Pushshift Reddit Dataset (archived)
 ABC News Headlines Dataset
 Google Trends via Pytrends
 ## 13. Author
-**[Rupam Das](https://github.com/rupam1123)** 
+**[Rupam Das](https://github.com/rupam1123)** <br>
 **[Mrityunjay Kumar](https://github.com/mrityunjaykumar23)** 
 
