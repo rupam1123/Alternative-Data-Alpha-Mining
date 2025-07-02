@@ -5,3 +5,4 @@ data/raw/social_media/df_2020.csv filter=lfs diff=lfs merge=lfs -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text

@@ -2,8 +2,6 @@
 __pycache__/
 *.pyc
 
-# Jupyter checkpoint files
-.ipynb_checkpoints/
 
 # Virtual environments
 venv/
@@ -13,7 +11,5 @@ alphaenv/
 # OS files
 .DS_Store
 
-# Ignore large raw downloads (optional)
-data/raw/Stock_prices/
 
 
