@@ -140,10 +140,10 @@ All saved in `results/`, including:
 
 | Metric                     | Value          |
 | -------------------------- | -------------- |
-| Confident Accuracy         | ~85%           |
-| Sharpe Ratio               | 13.91          |
-| Max Drawdown               | -0.08%         |
-| CAGR                       | 4975.69%       |
+| Confident Accuracy         | ~0.36%           |
+| Sharpe Ratio               | 0.82          |
+| Max Drawdown               | -0.27%         |
+| CAGR                       |  24.8 %            |
 | Confident Prediction Share | ~2.5% of data  |
 
 >  Confident thresholding significantly improved model precision and risk-adjusted returns.
