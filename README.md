@@ -140,7 +140,7 @@ All saved in `results/`, including:
 
 | Metric                     | Value          |
 | -------------------------- | -------------- |
-| Confident Accuracy         | ~0.36%           |
+| Confident Accuracy         | ~36%           |
 | Sharpe Ratio               | 0.82          |
 | Max Drawdown               | -0.27%         |
 | CAGR                       |  24.8 %            |
